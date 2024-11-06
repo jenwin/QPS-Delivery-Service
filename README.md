@@ -7,10 +7,10 @@ A Python-based program designed to optimize delivery routes using the **nearest 
 - **Route Optimization:** Automatically calculates the shortest and most efficient path for deliveries, minimizing overall distance or time.
 - **Efficient Data Handling:** The program utilizes **hashtables** for fast storage and retrieval of delivery locations, enhancing the performance of the nearest distance algorithm.
 - **Delivery Status Menu:** Allows users to check the status of packages and trucks in real-time:
-  - **Check a Package with Time:** Enter a **Package ID** and a specific time (e.g., 08:00:00) to view the status of a package at that time.
-  - **Check ALL Packages with Time:** Enter a specific **time** (e.g., 08:00:00) to view the status of all packages at that time.
-  - **Check Total Miles of All Trucks:** View the total miles traveled by all trucks.
-  - **Exit:** Exit the menu and stop the program.
+  - Check package status at a specific time.
+  - View the status of all packages at a given time.
+  - See total miles traveled by all trucks.
+  - Exit the program.
 
 ## Technologies
 - Core Language: **Python 3.x**
@@ -19,9 +19,8 @@ A Python-based program designed to optimize delivery routes using the **nearest 
 
 ## Installation
 - Clone or Download the repository
-  - Clone the repository using Git: **https://github.com/jenwin/QPS-Delivery-Service.git**
-  - cd into **QPS-Delivery-Service**
-  - To run the project, execute the following command: **python main.py**
+- Change into the QPS-Delivery-Service directory: `cd QPS-Delivery-Service`
+- To run the project, execute the following command: `python main.py`
 
 ## Author
 Jennifer Nguyen

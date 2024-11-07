@@ -18,7 +18,7 @@ A Python-based program designed to optimize delivery routes using the **nearest 
 - **Algorithm:** The **Nearest Distance Algorithm**, optimized for solving the Traveling Salesman Problem (TSP) or routing challenges.
 
 ## Installation
-- Clone or Download the repository
+- Clone or Download the repository.
 - Change into the QPS-Delivery-Service directory: `cd QPS-Delivery-Service`
 - To run the project, execute the following command: `python main.py`
 

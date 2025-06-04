@@ -1,6 +1,4 @@
 # QPS Delivery Service  🚚
-
-## Description
 A Python-based program designed to optimize delivery routes using the **nearest distance algorithm**. This program calculates the most efficient route for deliveries, reducing travel time and improving overall efficiency. Ideal for anyone looking to streamline the delivery process.
 
 ## Key Features

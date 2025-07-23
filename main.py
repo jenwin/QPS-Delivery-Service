@@ -208,7 +208,7 @@ def display_total_truck_miles():
 # 2. Consists of a menu selection to display all packages at a specific time (Type 2), includes total truck mileage
 # 3. A menu selection to see total miles of all trucks only
 # 4. A menu selection to quit the interactive interface (Type 4)
-print("Welcome to the Package Delivery System!")
+print("Welcome to the QPS Package Delivery System!")
 print("\nDelivery Status Menu:")
 print("1. Check a package with time. Enter package ID. Enter specific time (e.g. 08:00:00)")
 print("2. Check ALL packages with time. Enter specific time (e.g. 08:00:00)")

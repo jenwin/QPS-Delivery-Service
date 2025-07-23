@@ -10,6 +10,8 @@ A Python-based program designed to optimize delivery routes using the **nearest 
   - See total miles traveled by all trucks.
   - Exit the program.
 
+![CLI Demo](images/cli-demo.png)
+
 ## Technologies
 - Core Language: **Python 3.x**
 - **Data Structure:** **Hashtables** for fast location lookup, improving algorithm efficiency.
